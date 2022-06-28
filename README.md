@@ -66,7 +66,7 @@ The BrickWall class represents a collection of bricks and is created by composit
 ### Repo Structure
 
 ```
-CppND-Capstone-Breakout-Game
+CppND-Capstone-BreakoutGame
 │   CMakeLists.txt
 │   README.md  
 │
