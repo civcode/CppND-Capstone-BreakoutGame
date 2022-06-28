@@ -63,7 +63,7 @@ The classes Ball, Brick and Racket inherit from Block since they share all of it
 
 The BrickWall class represents a collection of bricks and is created by composition. The Game class holds all the objects which define the game state.     
 
-### File Structure
+### Repo Structure
 
 ```
 CppND-Capstone-Breakout-Game
