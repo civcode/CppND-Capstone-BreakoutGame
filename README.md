@@ -40,7 +40,7 @@ This is a Breakout game clone implemented in C++ with SDL2. It is based on the [
 
 ## Basic Build Instructions
 
-1. Clone this [repo](https://github.com/udacity/CppND-Capstone-Snake-Game).
+1. Clone this repo
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./BreakoutGame`.
@@ -78,27 +78,17 @@ CppND-Capstone-Breakout-Game
 └───images
 │   │   [images for the README.md]
 │   │   ...
-│   
+│  
+└───include
+│   │   [include files]
+|   |   ball.h
+│   │   ...
+|
 └───src
-    │   ball.h
+    │   [source files]
     │   ball.cpp
-	│   block.h
-	│   block.cpp
-	│   brick.h
-	│   brick.cpp
-	│   brick_wall.h
-	│   brick_wall.cpp
-	│   constants.h
-	│   controller.h
-	│   controller.cpp
-	│   defines.h
-	│   game.h
-	│   game.cpp
-	│   main.cpp
-	│   misc.h
-	│   racket.h
-	│   renderer.h
-	│   renderer.cpp
+    |   ...
+    |   main.cpp
 ```
 
 The source files are mostly self-explanatory. **constants.h** holds parameters such as game geometry and colors. **misc.h** defines a class that holds color values.
