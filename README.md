@@ -1,4 +1,4 @@
-# CPPND: Capstone Breakout Game Clone
+# CppND: Capstone Breakout Game Clone
 ---
 
 [image1]: ./images/BA_01.png  " "
